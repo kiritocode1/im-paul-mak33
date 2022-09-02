@@ -1,7 +1,7 @@
 <img width="150" src="https://img.shields.io/github/followers/im-paul-mak33?label=Follow&style=social"/> <img width="110" src="https://visitor-badge.laobi.icu/badge?page_id=im-paul-mak33.im-paul-mak33"/>
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 ## It is so Great to see you here! :smile: <br>
-:smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats<br>
+:smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats<br><br>
 <a href="https://app.daily.dev/paulmak33"><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a> <br>
 :point_up_2: Click on the Card for more detailed info:information_source: <br>
 
