@@ -1,4 +1,9 @@
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
+
+:smiley: Here is my [Daily.dev](https://app.daily.dev/paulmak33) Stats :point_up_2: Click on the Card for more detailed info:information_source: <br>
+
+<a href="https://app.daily.dev/paulmak33"><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a>
+
 ## It is so Great to see you here! :smile: <br>
 🔭 I’m currently on [#javascript30](https://javascript30.com) Day Challenge :pencil2: Created by : ![ @wesbos ]("https://twitter.com/wesbos):man: <br><br>
 🌱 I’m currently learning Typescript and looking forward to Typescript + React <br><br>
@@ -9,9 +14,6 @@
 [6]: http://www.github.com/im-paul-mak33
  
  
-:smiley: Here is my [Daily.dev](https://app.daily.dev/paulmak33) Stats :point_up_2: Click on the Card for more detailed info:information_source: <br>
-
-<a href="https://app.daily.dev/paulmak33"><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a>
 
 
 
