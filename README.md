@@ -46,12 +46,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=im-paul-mak33&count_private=true&theme=radical&show_icons=true" />
 
-### 📧 You can reach out me at 📝 souravpaul210789@gmail.com, ![alt text][1.2], ![alt text][6.2]
+### 📧 You can reach out me at [![image](https://user-images.githubusercontent.com/106434904/188209066-1cf117bb-3636-4381-ab77-f34d5f5d4da9.png)](mailto:souravpaul210789@gmail.com)  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulmak33)  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-paul-mak33)
 
-
-[1]: http://www.twitter.com/paulmak33
-[6]: http://www.github.com/im-paul-mak33
- 
  
 
 
@@ -74,33 +70,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-<!--
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
--->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/paulmak33
-[6]: http://www.github.com/im-paul-mak33
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
