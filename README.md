@@ -2,10 +2,8 @@
 
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 
-<span align="right">:smiley: Here is my </span> [Daily.dev](https://app.daily.dev/paulmak33)<span align="right"> Stats </span>
-
-
- :point_up_2: Click on the Card for more detailed info:information_source: <br>
+<span align="right">:smiley: Here is my </span> [Daily.dev](https://app.daily.dev/paulmak33)<span align="right"> Stats on the right </span> <br>
+:point_up_2: Click on the Card for more detailed info:information_source: <br>
 
 
 
