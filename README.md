@@ -1,5 +1,7 @@
 <a href="https://app.daily.dev/paulmak33"><img align="right" src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=im-paul-mak33.visitor-badge&left_color=green&right_color=red)
+
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 
 <span align="right">:smiley: Here is my </span> [Daily.dev](https://app.daily.dev/paulmak33)<span align="right"> Stats on the right </span> <br>
@@ -13,6 +15,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=im-paul-mak33&count_private=true&theme=radical&show_icons=true" />
 
 📧 You can reach out me at 📝 souravpaul210789@gmail.com, ![alt text][1.2], ![alt text][6.2]
+
 
 [1]: http://www.twitter.com/paulmak33
 [6]: http://www.github.com/im-paul-mak33
