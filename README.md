@@ -2,9 +2,7 @@
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 ## It is so Great to see you here! :smile: <br>
 :smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats<br>
-
-<a href="https://app.daily.dev/paulmak33"><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a>
-
+<a href="https://app.daily.dev/paulmak33"><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a> <br>
 :point_up_2: Click on the Card for more detailed info:information_source: <br>
 
 🔭 I’m currently on [#javascript30](https://javascript30.com) Day Challenge :pencil2: Created by : ![ @wesbos ]("https://twitter.com/wesbos):man: <br><br>
