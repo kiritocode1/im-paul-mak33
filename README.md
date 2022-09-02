@@ -9,7 +9,7 @@
 🔭 I’m currently on [#javascript30](https://javascript30.com) Day Challenge :pencil2: Created by : ![ @wesbos ]("https://twitter.com/wesbos):man: <br><br>
 🌱 I’m currently learning Typescript and looking forward to Typescript + React <br><br>
 💬 Ask me about Tech🤖, Geopolitics🌍, History📜, Science📡, Sports🏓, Anime🍥. <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-paul-mak33&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-paul-mak33&layout=compact" /> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=im-paul-mak33&count_private=true&theme=radical&show_icons=true" />
 
 📧 You can reach out me at 📝 souravpaul210789@gmail.com, ![alt text][1.2], ![alt text][6.2]
